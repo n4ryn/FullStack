@@ -2,3 +2,21 @@
     margin: 0;
     padding: 0;
 }
+
+div{
+    height: 500px;
+    width: 500px;
+    border: 10px solid yellow;
+    display: flex;
+    justify-content: end;
+    align-items: center;    
+}
+
+.custom{
+    height: 100px;
+    width: 100px;
+    color: red;
+    border: 10px dotted maroon;
+    padding: 50px 30px 10px 20px;
+    margin: 100px 200px 100px 150px;
+ }
